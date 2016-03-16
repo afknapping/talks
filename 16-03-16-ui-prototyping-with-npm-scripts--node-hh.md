@@ -17,7 +17,7 @@
 ![image](https://cloud.githubusercontent.com/assets/170145/13830589/024a85e6-ebce-11e5-955c-8f2b609f8bc3.png)
 
 - [filtercake/tigerstone: Boilerplate frontend Grunt flow](https://github.com/filtercake/tigerstone)
-- [filtercake/homer: one jekyll template to rule them all](https://github.com/filtercake/homer)
+- [filtercake/homer: one jekyll template to rule them all](https://github.com/filtercake/homer) `<- yeah, at the time I thought that was really cool!`
 
 ## The Stack
 
@@ -31,6 +31,11 @@
 - [Surge](http://surge.sh/)
 - [Bash - GNU Project - Free Software Foundation](https://www.gnu.org/software/bash/)
 - [npm](https://www.npmjs.com/)
+- [npm-add-script](https://www.npmjs.com/package/npm-add-script)
+- [Colors - A nicer color palette for the web.](http://clrs.cc/)
+- [postcss/autoprefixer: Parse CSS and add vendor prefixes to rules by Can I Use](https://github.com/postcss/autoprefixer)
+- [postcss/postcss-import: PostCSS plugin to inline @import rules content](https://github.com/postcss/postcss-import)
+- [Hammer.JS & hammer-time.js](http://hammerjs.github.io/)
 
 ## Resources
 
