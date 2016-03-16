@@ -8,7 +8,7 @@
 
 - **[ui-sketchbook](https://www.npmjs.com/package/ui-sketchbook)**
 
-## The "Slides"
+## The Story so far
 
 [![Dan Mall](https://cloud.githubusercontent.com/assets/170145/13830533/84d3d306-ebcd-11e5-9f8e-a3c6a03b8a39.png)](https://the-pastry-box-project.net/dan-mall/2012-september-12)
 
