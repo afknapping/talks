@@ -40,5 +40,5 @@
 - [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 - [hoodie-css/DEVELOPMENT.md at feature/build-automation · hoodiehq/hoodie-css](https://github.com/hoodiehq/hoodie-css/blob/feature/build-automation/DEVELOPMENT.md)
 - [npm run-scripts boilerplate](https://gist.github.com/addyosmani/9f10c555e32a8d06ddb0)
-- [arcturus/node-appcache-generator](https://github.com/arcturus/node-appcache-generator), [appcache versioning](https://gist.github.com/filtercake/7421fb8096c7c0c229de), [auto appcache on surge](https://davidwalsh.name/dont-wait-serviceworker-adding-offline-support-oneline), [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution?mc_cid=780729def0&mc_eid=17afc2196c)
+- [arcturus/node-appcache-generator](https://github.com/arcturus/node-appcache-generator) | [appcache versioning](https://gist.github.com/filtercake/7421fb8096c7c0c229de) | [auto appcache on surge](https://davidwalsh.name/dont-wait-serviceworker-adding-offline-support-oneline) | [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution?mc_cid=780729def0&mc_eid=17afc2196c)
 - [Nordic.js 2015 • Kate Hudson - Advanced front-end automation with npm scripts - YouTube](https://www.youtube.com/watch?v=0RYETb9YVrk)
